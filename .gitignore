@@ -1,0 +1,17 @@
+# Python Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Output directories
+outputs/
+
+# IDE specific files
+.idea/
+*.iml
