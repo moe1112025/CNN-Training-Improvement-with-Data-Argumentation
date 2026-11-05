@@ -1,17 +1,9 @@
 # Python Virtual Environments
 .venv/
-venv/
-ENV/
-env/
 
-# Python compiled files
-__pycache__/
-*.py[cod]
-*$py.class
-
-# Output directories
+# Datasets and large archives
+data/
 outputs/
 
-# IDE specific files
+# IDE files
 .idea/
-*.iml
